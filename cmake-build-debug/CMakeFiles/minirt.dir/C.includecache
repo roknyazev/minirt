@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wrudy/Desktop/minirt_final 2/includes/canvas.h
+linalg.h
+/Users/wrudy/Desktop/minirt_final 2/includes/linalg.h
+
+/Users/wrudy/Desktop/minirt_final 2/includes/get_next_line.h
+unistd.h
+/Users/wrudy/Desktop/minirt_final 2/includes/unistd.h
+stdlib.h
+/Users/wrudy/Desktop/minirt_final 2/includes/stdlib.h
+fcntl.h
+/Users/wrudy/Desktop/minirt_final 2/includes/fcntl.h
+
+/Users/wrudy/Desktop/minirt_final 2/includes/linalg.h
+stdlib.h
+/Users/wrudy/Desktop/minirt_final 2/includes/stdlib.h
+math.h
+/Users/wrudy/Desktop/minirt_final 2/includes/math.h
+
+/Users/wrudy/Desktop/minirt_final 2/includes/objects.h
+linalg.h
+/Users/wrudy/Desktop/minirt_final 2/includes/linalg.h
+canvas.h
+/Users/wrudy/Desktop/minirt_final 2/includes/canvas.h
+
+/Users/wrudy/Desktop/minirt_final 2/includes/raytrace.h
+canvas.h
+/Users/wrudy/Desktop/minirt_final 2/includes/canvas.h
+linalg.h
+/Users/wrudy/Desktop/minirt_final 2/includes/linalg.h
+scene.h
+/Users/wrudy/Desktop/minirt_final 2/includes/scene.h
+
+/Users/wrudy/Desktop/minirt_final 2/includes/scene.h
+objects.h
+/Users/wrudy/Desktop/minirt_final 2/includes/objects.h
+linalg.h
+/Users/wrudy/Desktop/minirt_final 2/includes/linalg.h
+canvas.h
+/Users/wrudy/Desktop/minirt_final 2/includes/canvas.h
+get_next_line.h
+/Users/wrudy/Desktop/minirt_final 2/includes/get_next_line.h
+stdio.h
+/Users/wrudy/Desktop/minirt_final 2/includes/stdio.h
+
+/Users/wrudy/Desktop/minirt_final 2/src/ray.c
+../includes/raytrace.h
+/Users/wrudy/Desktop/minirt_final 2/includes/raytrace.h
+

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="minirt"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/wrudy/Desktop/minirt_final 2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/wrudy/Desktop/minirt_final\ 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/wrudy/Desktop/minirt_final\ 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/wrudy/Desktop/minirt_final\ 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/wrudy/Desktop/minirt_final\ 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/wrudy/Desktop/minirt_final 2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/wrudy/Desktop/minirt_final\ 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/wrudy/Desktop/minirt_final\ 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/wrudy/Desktop/minirt_final\ 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/wrudy/Desktop/minirt_final\ 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/wrudy/Desktop/minirt_final 2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/wrudy/Desktop/minirt_final\ 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/wrudy/Desktop/minirt_final\ 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/wrudy/Desktop/minirt_final\ 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/wrudy/Desktop/minirt_final\ 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="minirt">
+				<Option output="/Users/wrudy/Desktop/minirt_final 2/cmake-build-debug/minirt" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wrudy/Desktop/minirt_final 2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/wrudy/Desktop/minirt_final 2/."/>
+					<Add directory="/Users/wrudy/Desktop/minirt_final 2/mlx"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/wrudy/Desktop/minirt_final\ 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 minirt"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/wrudy/Desktop/minirt_final\ 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/wrudy/Desktop/minirt_final\ 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/wrudy/Desktop/minirt_final\ 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="minirt/fast">
+				<Option output="/Users/wrudy/Desktop/minirt_final 2/cmake-build-debug/minirt" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wrudy/Desktop/minirt_final 2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/wrudy/Desktop/minirt_final 2/."/>
+					<Add directory="/Users/wrudy/Desktop/minirt_final 2/mlx"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/wrudy/Desktop/minirt_final\ 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 minirt/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/wrudy/Desktop/minirt_final\ 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/wrudy/Desktop/minirt_final\ 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/wrudy/Desktop/minirt_final\ 2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/wrudy/Desktop/minirt_final 2/includes/bmp.h">
+			<Option target="minirt"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minirt_final 2/includes/canvas.h">
+			<Option target="minirt"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minirt_final 2/includes/get_next_line.h">
+			<Option target="minirt"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minirt_final 2/includes/linalg.h">
+			<Option target="minirt"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minirt_final 2/includes/minirt.h">
+			<Option target="minirt"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minirt_final 2/includes/objects.h">
+			<Option target="minirt"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minirt_final 2/includes/raytrace.h">
+			<Option target="minirt"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minirt_final 2/includes/scene.h">
+			<Option target="minirt"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minirt_final 2/src/bmp.c">
+			<Option target="minirt"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minirt_final 2/src/camera.c">
+			<Option target="minirt"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minirt_final 2/src/canvas.c">
+			<Option target="minirt"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minirt_final 2/src/color.c">
+			<Option target="minirt"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minirt_final 2/src/cylinder.c">
+			<Option target="minirt"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minirt_final 2/src/get_next_line.c">
+			<Option target="minirt"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minirt_final 2/src/get_next_line_utils.c">
+			<Option target="minirt"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minirt_final 2/src/intersection.c">
+			<Option target="minirt"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minirt_final 2/src/light.c">
+			<Option target="minirt"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minirt_final 2/src/main.c">
+			<Option target="minirt"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minirt_final 2/src/mlx_handle.c">
+			<Option target="minirt"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minirt_final 2/src/object.c">
+			<Option target="minirt"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minirt_final 2/src/parse.c">
+			<Option target="minirt"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minirt_final 2/src/parse_objects.c">
+			<Option target="minirt"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minirt_final 2/src/parse_scene_elems.c">
+			<Option target="minirt"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minirt_final 2/src/parse_utils_1.c">
+			<Option target="minirt"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minirt_final 2/src/parse_utils_2.c">
+			<Option target="minirt"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minirt_final 2/src/plane.c">
+			<Option target="minirt"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minirt_final 2/src/ray.c">
+			<Option target="minirt"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minirt_final 2/src/raytrace.c">
+			<Option target="minirt"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minirt_final 2/src/render.c">
+			<Option target="minirt"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minirt_final 2/src/scene.c">
+			<Option target="minirt"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minirt_final 2/src/sphere.c">
+			<Option target="minirt"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minirt_final 2/src/square.c">
+			<Option target="minirt"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minirt_final 2/src/triangle.c">
+			<Option target="minirt"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minirt_final 2/src/vecalg1.c">
+			<Option target="minirt"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minirt_final 2/src/vecalg2.c">
+			<Option target="minirt"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minirt_final 2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
